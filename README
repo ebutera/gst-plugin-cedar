@@ -1,0 +1,12 @@
+GStreamer 0.10 plugin for Cedar h264 hardware encoding with no binary blobs.
+
+Based on PoC h264 encoder by Jens Kuske:
+https://github.com/jemk/cedrus/tree/master/h264enc
+
+Usage:
+
+gst-launch -ve videotestsrc ! cedar_h264enc ! h264parse ! matroskamux ! filesink location="cedar.mkv"
+
+gst-launch -ve videotestsrc ! cedar_h264enc ! ffmux_mp4 ! filesink location="cedar.mp4"
+
+Tested up to 1080p.
