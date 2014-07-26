@@ -1,6 +1,6 @@
 /*
  * Cedar H264 Encoder Plugin
- * Copyright (C) 2014 Enrico Butera <ebutera@users.berlios.de>
+ * Copyright (C) 2014 Enrico Butera <ebutera@users.sourceforge.net>
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),

@@ -1,7 +1,7 @@
 dnl required version of autoconf
 AC_PREREQ([2.53])
 
-AC_INIT([gst-plugin-cedar],[0.10.1], ebutera@users.berlios.de)
+AC_INIT([gst-plugin-cedar],[0.10.1], ebutera@users.sourceforge.net)
 
 dnl required versions of gstreamer and plugins-base
 GST_REQUIRED=0.10.16

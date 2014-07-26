@@ -1,6 +1,6 @@
 /*
  * Cedar H264 Encoder Plugin
- * Copyright (C) 2014 Enrico Butera <ebutera@users.berlios.de>
+ * Copyright (C) 2014 Enrico Butera <ebutera@users.sourceforge.net>
  * 
  * Byte stream utils:
  * Copyright (c) 2014 Jens Kuske <jenskuske@gmail.com>
